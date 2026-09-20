@@ -15,4 +15,4 @@ The CSV has columns: `country`, `order_value_EUR`, `cost`, `date`, `category`, `
 
 ## Repository Expectations
 
-Students should copy the starter materials to their own assignment repository and complete their analysis there. Do not include solution code.
+Students should copy the starter materials to their own assignment repository and complete their analysis there.
